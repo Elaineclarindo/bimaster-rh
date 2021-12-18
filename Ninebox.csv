@@ -1,0 +1,10 @@
+﻿Avaliação;Perfil;Classificação;Ações
+1;Insuficiente;"B1: potencial baixo e desempenho abaixo do esperado (insuficiente);";Avaliar possibilidade de movimentação para função menor ou demissão
+2;Eficaz;"B2: baixo potencial mas atinge o desempenho esperado (eficaz);";Avaliar possibilidade de movimentação horizontal
+3;Questionável;"M1: potencial mediano e baixo desempenho (questionável);";Avaliar se está na área certa. Rever atribuições
+4;Comprometido;B3: baixo potencial e desempenho acima do esperado (comprometido).;Garantem o presente. Manter na posição e ver possibilidade de movimentação lateral
+5;Mantenedor;"M2: potencial e desempenho em nível mediano (mantenedor);";Investir no potencial e desempenho para manter na atual função
+6;Enigma;"A1: alto potencial e baixo desempenho (profissional enigma);";Avaliar se não há interferências internas e/ou externas atuando, ou se é novo na função. Investir no desenvolvimento
+7;Forte Desempenho;"M3: potencial mediano e desempenho acima do esperado (forte desempenho);";Podem assumir mais desafios
+8;Forte Desempenho;"A2: alto potencial e desempenho esperado (forte desempenho);";Avaliar oportunidade a longo prazo
+9;Alto Potencial;"A3: alto potencial e desempenho acima do esperado (alto potencial);";Condições de ascensão imediata. Garantem o futuro da empresa

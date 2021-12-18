@@ -1,0 +1,7 @@
+﻿COD STATUS;STATUS;MOTIVO
+1;Ativo;Ingresso
+2;Desligado;Sem justa causa
+3;Desligado;Com justa causa
+4;Desligado;A pedido
+5;Desligado;Aposentadoria
+6;Desligado;Falecimento
